@@ -1,0 +1,23 @@
+Two responses are provided based on the detailed question and answers.
+Your task is to compare and evaluate two responses, and select the one that the user will find easier to
+understand.
+Please carefully read and understand these instructions.
+Evaluation criteria: Comprehensibility (2 vs 1)
+By comparing Answers 1 and 2, we evaluate whether the user has organized the main content in an
+intelligible manner according to the flow of the user’s question and situation.
+Please select a response number that is easier to understand and print it.
+Criteria for an excellent answer:
+- The answer was written naturally following the order and flow of the detailed question.
+- The sentence structure is lucid, and the procedures and solutions are organized in stages.
+- It is highly readable and the main content is arranged in a logical order, making it easy for users to understand.
+Evaluation stage:
+1. Carefully read the detailed question and the two responses.
+2. Identify the flow of detailed question and the order of the situation.
+3. Compare whether each answer is written in accordance with the flow and situation of the problem.
+4. Review whether the main content is lucid and logically organized.
+5. Print the answer number as 1 or 2 for enhanced comprehension.
+Detailed question: {question}
+Answer 1: {answer_1}
+Answer 2: {answer_2}
+Please print the answer number as 1 or 2 only.
+Do not assign any other number other than 1 or 2.
