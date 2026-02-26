@@ -1,0 +1,25 @@
+Two responses are provided based on the detailed question and answers.
+Your task is to compare and evaluate two responses and select the one that contains advice that is
+actually helpful.
+Please carefully read and understand these instructions.
+Evaluation criteria: Practicality (2 vs 1)
+Compare Answers 1 and 2 to assess whether they contain a specific advice and a step-by-step method.
+Please select and print the answer number that provides greater practical help.
+Criteria for an excellent answer:
+- The answer provides specific methods and procedures for each step.
+- It includes an actionable plan for users, rather than just simple consolation or advice.
+- Advice includes realistic and practicable measures.
+Evaluation stage:
+1. Carefully read the detailed question and the two responses.
+2. Review whether the answer includes specific procedures and methods.
+3. Ensure that the plan includes action steps that are practicable.
+4. Compare Chatbot Answers 1 and 2 and output the answer number with the highest practicality as 1 or 2.
+Detailed question: {question}
+Answer 1: {answer_1}
+Answer 2: {answer_2}
+Please print the answer number as 1 or 2 only.
+Do not assign any other number other than 1 or 2.
+Each placeholder (e.g., {question}, {answer_1}, {answer_2}) will be replaced with the actual question
+or response.
+When presenting supplementary prompts, line breaks may differ from the actual prompts for readability
+purposes.
