@@ -1,0 +1,22 @@
+Two responses are provided based on the detailed question and the answers.
+Your task is to compare and evaluate the two responses, and select the response that expresses a solution
+and empathy for the user’s question in a balanced manner. Please carefully read and understand these instructions.
+Evaluation criteria: Empathy (2 vs 1)
+By comparing Answers 1 and 2, we evaluate how well the expresses empathy and solutions related to the user’s feelings and question.
+Please select and print the answer number that expresses empathy and advice in a harmonious manner.
+Criteria for an excellent answer:
+- Empathy and solutions are balanced, enabling users to understand and feel the direction of problem solving.
+- Understand the user’s feelings and provide appropriate advice.
+- Empathy and solutions are appropriately linked, and practical help is provided without unnecessary or
+excessive emotional expression.
+Evaluation stage:
+1. Carefully read the detailed question and the two responses.
+2. Identify the user’s feelings and question, and compare the two answers.
+3. Ascertain whether empathy and solutions are in harmony and can provide a sense of trust.
+4. Choose an answer that is balanced, without leaning toward either empathy or solution.
+5. Print the number of the answer that more appropriately expresses empathy as 1 or 2.
+Detailed question: {question}
+Answer 1: {answer_1}
+Answer 2: {answer_2}
+Please print the answer number as 1 or 2 only.
+Do not assign any other number other than 1 or 2.
